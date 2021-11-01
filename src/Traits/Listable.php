@@ -2,6 +2,8 @@
 
 namespace Lyal\Checkr\Traits;
 
+use Lyal\Checkr\Client;
+
 trait Listable
 {
     /**
